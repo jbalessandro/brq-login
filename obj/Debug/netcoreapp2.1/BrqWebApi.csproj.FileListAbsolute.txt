@@ -1,0 +1,14 @@
+C:\Projetos\BRQ\BrqWebApi\bin\Debug\netcoreapp2.1\BrqWebApi.deps.json
+C:\Projetos\BRQ\BrqWebApi\bin\Debug\netcoreapp2.1\BrqWebApi.runtimeconfig.json
+C:\Projetos\BRQ\BrqWebApi\bin\Debug\netcoreapp2.1\BrqWebApi.runtimeconfig.dev.json
+C:\Projetos\BRQ\BrqWebApi\bin\Debug\netcoreapp2.1\BrqWebApi.dll
+C:\Projetos\BRQ\BrqWebApi\bin\Debug\netcoreapp2.1\BrqWebApi.pdb
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.csprojAssemblyReference.cache
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.csproj.CoreCompileInputs.cache
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.RazorAssemblyInfo.cache
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.RazorAssemblyInfo.cs
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.AssemblyInfoInputs.cache
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.AssemblyInfo.cs
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.RazorTargetAssemblyInfo.cache
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.dll
+C:\Projetos\BRQ\BrqWebApi\obj\Debug\netcoreapp2.1\BrqWebApi.pdb
